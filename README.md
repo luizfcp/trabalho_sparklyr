@@ -6,8 +6,8 @@ Trabalho sobre o pacote SparklyR para a disciplina **Métodos Computacionais par
 
 Alunos participante do grupo:
 
-Iasmin Lugon
-Lucas Mattos
-Luiz Fernando
-Lyncoln Sousa
-Marcson Azevedo
++ Iasmin Lugon
++ Lucas Mattos
++ Luiz Fernando
++ Lyncoln Sousa
++ Marcson Azevedo
