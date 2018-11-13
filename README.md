@@ -16,8 +16,8 @@ Informar sobre o pacote de forma resumida, dando uma intuição do que é e como
 
 Alunos participante do grupo:
 
-+ Iasmin Lugon
-+ Lucas Mattos
-+ Luiz Fernando
++ Iasmyn Lugon
++ Lucas de Mattos
++ Luiz Fernando 
 + Lyncoln Sousa
 + Marcson Azevedo
