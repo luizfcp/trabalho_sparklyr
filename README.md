@@ -8,7 +8,7 @@ Informar sobre o pacote de forma resumida, dando uma intuição do que é e como
 
 ---
 
-### [Apresentação]()
+### [Apresentação](http://rpubs.com/luizfcp/apresentacao_sparklyr)
 
 ### [Relatório (parte mais teórica)](http://rpubs.com/luizfcp/sparklyr)
 
