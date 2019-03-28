@@ -8,16 +8,10 @@ Informar sobre o pacote de forma resumida, dando uma intuição do que é e como
 
 ---
 
-### [Apresentação](http://rpubs.com/luizfcp/apresentacao_sparklyr)
-
-### [Relatório (parte mais teórica)](http://rpubs.com/luizfcp/sparklyr)
-
----
-
 Alunos participante do grupo:
 
-+ Iasmyn Lugon
-+ Lucas de Mattos
-+ Luiz Fernando 
++ Iasmin Lugon
++ Lucas Mattos
++ Luiz Fernando
 + Lyncoln Sousa
 + Marcson Azevedo
